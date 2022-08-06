@@ -1,5 +1,3 @@
 """Tarea 1 Sistemas Distribuidos"""
-nom_apellido = "Laura Capdevila"
+nom_apellido = "Jovana Alvarez"
 print("hola mundo " + nom_apellido)
-
-print("prueba2")
